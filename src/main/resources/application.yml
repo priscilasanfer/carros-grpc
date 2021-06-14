@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: carrosGrpc
+
+datasources:
+  default:
+    url: jdbc:postgresql://localhost:5433/cdc
+    driverClassName: org.postgresql.Driver
+    username: postgres
+    password: root
+    dialect: POSTGRES
+
+jpa.default.properties.hibernate.hbm2ddl.auto: update
