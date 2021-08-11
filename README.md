@@ -1,18 +1,17 @@
-## Micronaut 2.5.5 Documentation
+# Bootcamp Orange Talents 
 
-- [User Guide](https://docs.micronaut.io/2.5.5/guide/index.html)
-- [API Reference](https://docs.micronaut.io/2.5.5/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/2.5.5/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+Conteúdo: https://github.com/zup-academy/nosso-cartao-documentacao/tree/master/orange-talent-4
 
-## Feature jdbc-hikari documentation
+## Curso Teste com gRPC
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+Curso oferecido pela Zup Edu
 
-## Feature testcontainers documentation
+- [Micronaut Testing - como testar uma API gRPC](https://www.youtube.com/watch?v=mq3UYOQ9FqE)
 
-- [https://www.testcontainers.org/](https://www.testcontainers.org/)
-
-Rodar os testes no terminal:  
-.\gradlew.bat test
+## Tecnologias utilizadas:
+- Kotlin
+- Micronaout
+- Gradle
+- gRPC
+- Junit
+- H2
